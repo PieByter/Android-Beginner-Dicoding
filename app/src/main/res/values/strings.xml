@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Animotion Apps</string>
+
+    <string name="title_anime">Judul Anime</string>
+    <string name="description">Deskripsi Anime:</string>
+    <string name="about">About</string>
+    <string name="username">Pieter Tanoto</string>
+    <string name="email">pietertanoto98@gmail.com</string>
+    <string name="textview">Penjelasan Anime</string>
+    <string name="share">Share</string>
+    <string name="animotion_apps">Animotion Apps</string>
+    <string name="splash_screen_logo">Splash Screen Logo</string>
+    <string name="main_item_row">Main Item Row</string>
+    <string name="background_preview">Background Preview</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_name">
+        <item>Dr.Stone Season 3 Part 2</item>
+        <item>Hametsu no Oukoku</item>
+        <item>Jujutsu Kaisen Season 2</item>
+        <item>Kimetsu No Yaiba Season 3</item>
+        <item>Nanatsu no Taizai: Mokushiroku</item>
+        <item>One Piece</item>
+        <item>Ragna Crimson</item>
+        <item>Shangri La Frontier</item>
+        <item>Shingeki no Kyojin: The Final Season</item>
+        <item>Spy x Family Season 2</item>
+        <item>Tate no Yuusha no Nariagari Season 3</item>
+        <item>Tokyo Revengers Season 3</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Setelah lima tahun menyimpan perasaan yang tak terucapkan, siswa SMA Taiju Ooki akhirnya siap untuk mengakui cintanya kepada Yuzuriha Ogawa. Namun ketika Taiju memulai pengakuannya, sebuah lampu hijau yang menyilaukan menghantam Bumi dan membuat manusia ketakutan di seluruh dunia — mengubah setiap manusia menjadi batu.
+            \nBeberapa milenium kemudian, Taiju terbangun untuk menemukan dunia modern sama sekali tidak ada, karena alam telah berkembang di tahun-tahun ketika umat manusia berdiri diam. Di antara dunia batu patung, Taiju bertemu dengan satu manusia yang masih hidup: temannya yang mencintai sains, Senkuu, yang telah aktif selama beberapa bulan.
+            Taiju belajar bahwa Senkuu telah mengembangkan skema besar — untuk meluncurkan kebangkitan penuh peradaban dengan sains. Otak Taiju dan Otak Senkuu bergabung untuk menjalin kemitraan yang tangguh, dan mereka segera menemukan metode untuk menghidupkan kembali mereka yang ketakutan.
+            \nNamun, rencana induk Senkuu terancam ketika ideologinya ditentang oleh mereka yang terbangun. Sementara itu, alasan membatu umat manusia masih belum diketahui.
+        </item>
+        <item>
+            Selama bertahun-tahun, umat manusia berkembang dengan adanya kekuatan sihir, sebuah anugerah dari para penyihir untuk membantu umat manusia. Namun masa telah berubah. Teknologi Ekspansi Gear telah membuat sihir dan penyihir ditinggalkan. Demi membebaskan umat manusia dari sihir yang merusak, Kekaisaran Redia yang kuasa memulai pemburuan kejam untuk memusnahkan semua penyihir.
+            Adonis masihlah seorang anak yang berguru pada seorang penyihir yang dia sayangi saat pemburuan itu dimulai. Saat penyihir itu musnah ditangan kekaisaran, Adonis bersumpah untuk membalas dendam. Dengan kekuatan penyihir yang murka ini, pertumpahan darah akan terjadi!
+        </item>
+        <item>
+            Serpihan iblis Ryoumen Sukuna yang legendaris yang legendaris dan ditakuti, hilang berserakan. Jika ada iblis yang memakan bagian tubuh Sukuna, kekuatan yang mereka peroleh mampu menghancurkan dunia. Untungnya, ada sekolah misterius bernama Jujutsu Sorceres yang mampu melindungi keberadaan makhluk hidup dari hayat hidup.
+            \nYuuji Itadori adalah siswa sekolah menengah yang sehari – harinya mengunjungi kakeknya yang terbaring di tempat tidur. Meski begitu, ia memilki kemampuan fisik diatas remaja lainnya. Banyak sekali klub olahraga yang mengajak ia untuk bergabung, namun Yuuji lebih memilih Klub Ilmu Gaib.
+            \nSuatu hari, klub ilmu gaib berhasil mendapatkan benda terkutuk yang disegel. Tetapi sedikit yang mereka tahu mengenai teror yang akan menghantui mereka jika memencahkan segel tersebut.
+        </item>
+        <item>
+            Bercerita tentang seorang bernama Tanjirou Kamado, pemuda sulung dari keluarga yang kurang mampu dan tinggal di pedalaman gunung pada era Taisho. Sejak dahulu, muncul rumor tentang Oni (Iblis Pemakan Manusia) yang bersembunyi di hutan. Dikarenakan hal itu, penduduk setempat tidak pernah berani keluar di malam hari. Legenda mengatakan bahwa Pembasmi Oni juga berkeliaran di malam hari dan memburu iblis yang haus darah.
+            Bagi Tanjirou yang belum mengetahui apa-apa, hal itu hanyalah sekedar rumor belaka dan tidak akan menyebabkan masalah di kehidupannya.
+            \nSejak kematian ayahnya, Tanjirou menggantikan ayahnya untuk memenuhi kebutuhan keluarganya. Meski kehidupan mereka sangat berat, mereka merasakan kebahagiaan dan kehangatan yang luar biasa dari keluarganya. Tapi, kebahagiaan itu hancur saat Tanjirou melihat keluarganya dibantai saat dirinya meninggalkan rumah untuk bekerja menjual arang di Kota. Tidak hanya itu, satu-satunya keluarganya yang selamat, adik perempuannya Nezuko, berubah menjadi Oni.
+            Namun yang mengejutkannya, Nezuko masih menunjukkan emosi dan pemikiran manusia dengan mencoba melindungi Tanjirou dari serangan Pembasmi Oni. Dimulailah perjalanan Tanjirou untuk melawan Oni dan mengembalikan adiknya menjadi manusia kembali.
+        </item>
+        <item>
+            Percival selalu tinggal bersama kakeknya di God’s Finger, surga terpencil yang terletak tinggi di atas awan. Meskipun dia menyukai kehidupan sederhana, diam-diam dia mendambakan sebuah petualangan. Namun kehidupan Percival berubah selamanya ketika seorang penyusup—yang memiliki hubungan mengejutkan dengannya—menghancurkan semua yang dia miliki.
+            \nKarena tidak ada lagi yang bisa dilakukan selain mengejar orang yang merenggut segalanya darinya, Percival memutuskan untuk berangkat sendiri.
+            \nSelama perjalanannya, anak sebatang kara tersebut menyadari bahwa masih ada banyak hal yang belum dia ketahui tentang apa itu kehidupan yang normal. Untungnya, di sepanjang jalan dia bertemu teman-teman yang dapat membantunya bertahan hidup—tetapi bagaimana reaksi mereka ketika mengetahui nasib Percival dan bagaimana hubungannya dengan akhir dunia?
+        </item>
+        <item>
+            Gol D. Roger dikenal sebagai Raja Bajak Laut, Orang terkuat dan paling terkenal yang pernah mengarungi Grand Line. Penangkapan dan Eksekusi Roger oleh Pemerintahan Dunia telah membawa perubahan di seluruh dunia. Kata kata terakhir sebelum kematiannya mengungkapkan lokasi dari harta karun terbesar di dunia, One Piece.
+            Inilah awal dari era bajak laut, semua orang bermimpi menemukan One Piece (yang mana menjanjikan harta dan tahta yang tak terhingga jumlahnya), dan tentunya merebut gelar dari orang yang pertama menemukannya, gelar Raja Bajak Laut. Monkey D Luffy.
+        </item>
+        <item>
+            Dalam sebuah dunia di mana para naga menguasai langit, lautan, dan tanah, mereka yang ingin memberi perlawanan harus melewati batas manusia biasa. Terpaku dengan kemenangan dengan cara apapun, Ragna bekerjasama dengan Crimson si misterius. Motif Crimson mungkin tak jelas, tapi tujuan mereka sama: menghancurkan para naga penguasa.
+        </item>
+        <item>
+            Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su bercerita tentang Rakurou Hizutome, seorang siswa SMA kelas 2 yang hanya tertarik pada satu hal: menemukan “game-game payah” dan mengalahkan semuanya. Skill bermain game-nya tiada duanya, dan tidak ada game yang terlalu buruk untuk dia nikmati. Jadi saat dia diperkenalkan dengan game VR baru Shangri-La Frontier, dia membuat karakter terbaik dan melewati bagian prolog untuk langsung beraksi.
+            Tapi bisakah seorang gamer sejati seperti Rakurou menemukan semua rahasia yang disembunyikan Shangri-La Frontier…?
+        </item>
+        <item>
+            Setelah tindakan bencana Eren Yeager, teman-teman dan mantan musuhnya membentuk aliansi untuk melawan amukan genosida. Meskipun pernah menjadi musuh bebuyutan, Armin Arlert, Mikasa Ackerman, dan anggota Resimen Pramuka yang tersisa bergabung dengan Reiner Braun dan orang-orang yang selamat dari militer Marleyan. Front persatuan mereka yang sedikit ini memulai misi untuk menghentikan kemurkaan Eren dan-jika memungkinkan-menyelamatkan kawan lama mereka dalam prosesnya.
+            \nSaat Eren terus maju dengan cara apa pun, dia berjuang melawan gejolak internalnya sendiri. Meskipun ia merasakan penyesalan yang luar biasa atas invasi yang mengerikan, Eren percaya bahwa ia memiliki niat yang mulia: ia percaya bahwa jalan di depan adalah satu-satunya cara untuk menyelamatkan teman-temannya dan, pada tingkat yang lebih besar, rakyatnya.
+            \nBatalion yang berlawanan berputar menuju bentrokan terakhir yang tak terelakkan yang dapat merenggut nyawa jutaan orang. Meskipun mereka menghadapi pasukan monster yang melebihi apa pun yang dapat mereka bayangkan sebelumnya, Mikasa, Armin, dan sekutu mereka tetap berani dalam menghadapi malapetaka yang pasti.
+        </item>
+        <item>
+            Spy x Family ini bercerita tentang Untuk agen yang dikenal sebagai “Tasogare (Senja)”, tidak ada perintah yang mustahil jika itu demi perdamaian. Beroperasi sebagai mata-mata utama Westalis, Tasogare bekerja tanpa lelah untuk mencegah para ekstremis memicu perang dengan negara tetangga, Ostania.
+            Untuk misi terakhirnya, ia harus menyelidiki politisi Ostanian, Donovan Desmond, dengan menyusup ke sekolah putranya: Akademi Eden yang bergengsi. Dengan demikian, sang agen menghadapi tugas tersulit dalam karirnya: dimana dia harus menikah, punya anak, dan bermain keluarga-keluargaan.
+            \nTasogare, atau “Loid Forger,” dengan cepat mengadopsi anak yatim piatu sederhana bernama Anya untuk memainkan peran sebagai putri berusia enam tahun dan calon siswa Akademi Eden. Untuk seorang istri, ia menemukan Yor Briar, seorang pekerja kantoran yang sedikit kikuk yang membutuhkan pasangan pura-pura untuk mengesankan teman-temannya. Namun, Loid bukan satu-satunya yang memiliki sifat tersembunyi.
+            Yor sebenarnya adalah pembunuh mematikan dengan julukan “Ibarahime (Putri Duri).” Baginya, menikahi Loid dapat menjadi kedok yang sempurna.
+            Sementara itu, Anya bukanlah gadis biasa seperti yang terlihat; dia adalah seorang esper, produk dari eksperimen rahasia yang memungkinkannya membaca pikiran. Meskipun dia mengungkap identitas asli mereka, Anya senang bahwa orang tua barunya adalah agen rahasia yang keren! Tentu saja dia tidak akan pernah memberitahu mereka, karena itu akan merusak kesenangannya.
+            \nDengan kedok sebagai “Keluarga Forger,” mata-mata, pembunuh, dan esper ini harus bertindak sebagai keluarga sambil menjalankan agenda mereka masing-masing. Meskipun para pembohong dan orang aneh ini hanya melakukan perannya, mereka segera menyadari kalau keluarga lebih dari sekadar hubungan darah.
+        </item>
+        <item>
+            Four Cardinal Heroes adalah sekelompok pria biasa dari Jepang modern yang dipanggil ke kerajaan Melromarc untuk menjadi penyelamatnya. Melromarc adalah negara yang diganggu oleh Gelombang Bencana yang telah berulang kali merusak tanah dan membawa bencana bagi warganya selama berabad-abad. Keempat pahlawan masing-masing dianugerahi pedang, tombak, busur, dan perisai untuk mengalahkan Gelombang ini.
+            Naofumi Iwatani, seorang otaku, menjadi dikutuk dengan nasib menjadi “Pahlawan Perisai.” Berbekal hanya dengan perisai yang sangat sedikit, Naofumi diremehkan dan diejek oleh sesama pahlawan dan orang-orang kerajaan karena kemampuan ofensif yang lemah dan kepribadian yang kurang bersemangat.
+            \nKetika para pahlawan diberi sumber daya dan kawan untuk dilatih, Naofumi berangkat dengan satu-satunya orang yang mau berlatih bersamanya, Malty Melromarc. Dia segera dikhianati olehnya, dan menjadi dituduh mengambil keuntungan darinya. Naofumi kemudian menjadi sangat terdiskriminasi dan dibenci oleh orang-orang Melromarc untuk sesuatu yang tidak dilakukannya. Dengan badai rasa sakit dan ketidakpercayaan yang mengamuk di dalam hatinya, Naofumi memulai perjalanannya untuk memperkuat diri dan reputasinya.
+            Namun lebih jauh lagi, kesulitan berada di set sendiri, jadi Naofumi membeli seorang budak setengah manusia di ambang kematian bernama Raphtalia untuk menemaninya dalam perjalanannya.
+            \nKetika Ombak mendekati kerajaan, Naofumi dan Raphtalia harus berjuang untuk kelangsungan kerajaan dan melindungi orang-orang Melromarc dari masa depan mereka yang bernasib buruk.
+        </item>
+        <item>
+            Takemichi adalah seorang lelaki pengangguran berusia 26 tahun. Dia baru mengetahui bahwa gadis yang menjadi pacarnya ketika masih duduk di bangku SMP—satu-satunya gadis yang pernah dikencaninya—telah meninggal akibat ulah geng berandalan. Kemudian, setelah hampir mati tertabrak kereta, dia menyadari bahwa dirinya kembali ke masa lalu saat dia masih duduk di bangku SMP.
+            Takemichi bersumpah untuk mengubah masa depan dan menyelamatkan gadis itu. Demi melakukannya, dia bertujuan untuk naik ke puncak geng berandalan paling brutal di wilayah Kanto.
+        </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn.myanimelist.net/images/anime/1316/136268.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1455/133116l.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1600/134703.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1818/134058.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1389/134598.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1011/120243.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1763/140359.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1591/137973.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1000/110531.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1111/127508.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1317/139802.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1853/139843.jpg</item>
+    </string-array>
+</resources>
