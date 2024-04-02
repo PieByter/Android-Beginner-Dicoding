@@ -23,6 +23,8 @@ class DetailActivity : AppCompatActivity() {
         binding.apply {
             tvDetailName.text = animotionData?.name
             tvDetailDescription.text = animotionData?.description
+            ratingDescription.text = animotionData?.rating
+            jlhEpsDescription.text = animotionData?.episodes
 
             animotionData?.photo?.let {
                 Glide.with(this@DetailActivity)
@@ -35,7 +37,10 @@ class DetailActivity : AppCompatActivity() {
                     action = Intent.ACTION_SEND
                     putExtra(
                         Intent.EXTRA_TEXT,
-                        "Check out this anime: ${animotionData?.name}\nDetails: ${animotionData?.description}"
+                        "Check out this anime: ${animotionData?.name}" +
+                                "\nDetails: ${animotionData?.description}" +
+                                "\nRating: ${animotionData?.rating}" +
+                                "\nTotal Episodes: ${animotionData?.episodes}"
                     )
                     type = "text/plain"
                 }

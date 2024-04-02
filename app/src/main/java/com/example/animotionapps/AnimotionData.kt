@@ -8,5 +8,7 @@ import kotlinx.android.parcel.Parcelize
 data class AnimotionData(
     val name: String,
     val description: String,
-    val photo: String
+    val photo: String,
+    val rating: String,
+    val episodes: String
 ) : Parcelable

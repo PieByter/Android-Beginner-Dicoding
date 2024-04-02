@@ -14,6 +14,10 @@
     <string name="background_preview">Background Preview</string>
     <string name="image_poster">Image Poster</string>
     <string name="profile">Profile</string>
+    <string name="rating_anime">Rating Anime</string>
+    <string name="jumlah_episode">Jumlah Episode</string>
+    <string name="rating_description">Rating Angka</string>
+    <string name="jumlah_episode_description">Jumlah Episode</string>
 
     <string-array name="data_name">
         <item>Dr.Stone Season 3 Part 2</item>
@@ -107,5 +111,35 @@
         <item>https://cdn.myanimelist.net/images/anime/1111/127508.jpg</item>
         <item>https://cdn.myanimelist.net/images/anime/1317/139802.jpg</item>
         <item>https://cdn.myanimelist.net/images/anime/1853/139843.jpg</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>8.34 / 10</item>
+        <item>6.3 / 10</item>
+        <item>8.84 / 10</item>
+        <item>8.25 / 10</item>
+        <item>7.28 / 10</item>
+        <item>8.72 / 10</item>
+        <item>7.6 / 10</item>
+        <item>8.1 / 10</item>
+        <item>8.79 / 10</item>
+        <item>8.26 / 10</item>
+        <item>7.13 / 10</item>
+        <item>7.85 / 10</item>
+    </string-array>
+
+    <string-array name="data_episodes">
+        <item>11 Episodes</item>
+        <item>12 Episodes</item>
+        <item>23 Episodes</item>
+        <item>11 Episodes</item>
+        <item>24 Episodes</item>
+        <item>1099 Episodes</item>
+        <item>24 Episodes</item>
+        <item>25 Episodes</item>
+        <item>16 Episodes</item>
+        <item>13 Episodes</item>
+        <item>12 Episodes</item>
+        <item>13 Episodes</item>
     </string-array>
 </resources>

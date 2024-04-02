@@ -7,7 +7,7 @@ import com.bumptech.glide.Glide
 import com.example.animotionapps.databinding.ItemRowBinding
 
 class ListAdapter(private val listAnimotion: List<AnimotionData>) :
-    RecyclerView.Adapter<ListAdapter.ListViewHolder>() {
+    RecyclerView.Adapter<ListViewHolder>() {
     private lateinit var onItemClickCallback: OnItemClickCallback
 
     fun setOnItemClickCallback(onItemClickCallback: OnItemClickCallback) {
@@ -39,6 +39,4 @@ class ListAdapter(private val listAnimotion: List<AnimotionData>) :
     interface OnItemClickCallback {
         fun onItemClicked(data: AnimotionData)
     }
-
-    class ListViewHolder(var binding: ItemRowBinding) : RecyclerView.ViewHolder(binding.root)
 }

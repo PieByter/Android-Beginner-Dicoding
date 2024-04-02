@@ -44,6 +44,8 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.getStringArray(R.array.data_photo)
+        val dataRating = resources.getStringArray(R.array.data_rating)
+        val dataEpisodes = resources.getStringArray(R.array.data_episodes)
         val listAnimotion = mutableListOf<AnimotionData>()
 
         for (i in dataName.indices) {
@@ -51,7 +53,9 @@ class MainActivity : AppCompatActivity() {
                 val animotionData = AnimotionData(
                     dataName[i],
                     dataDescription[i],
-                    dataPhoto[i]
+                    dataPhoto[i],
+                    dataRating[i],
+                    dataEpisodes[i],
                 )
                 listAnimotion.add(animotionData)
             } else {
